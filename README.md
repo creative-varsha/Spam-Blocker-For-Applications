@@ -68,8 +68,8 @@ Built with JSP, Java, JDBC, Apache Tomcat and MySQL.
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/creative-varsha/YOUR-REPO-NAME.git
-   cd YOUR-REPO-NAME
+   git clone https://github.com/creative-varsha/Spam-Blocker-For-Applications.git
+   cd Spam-Blocker-For-Applications
    ```
 2. **Create the database.** Import `database/database.sql` into MySQL. It creates the `message_filter` database with all tables, a default admin account and a few sample blacklist words.
    ```bash
