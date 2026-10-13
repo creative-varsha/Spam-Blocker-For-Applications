@@ -1,0 +1,6 @@
+*.exe
+.metadata/
+bin/
+target/
+*.class
+Thumbs.db
